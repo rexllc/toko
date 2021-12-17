@@ -17,5 +17,5 @@ Share your beautiful creations with Toko. By sharing and uploading your creation
 By default, all Toko accounts are able to upload and share projects for free, but in limited functionallities only.
 
 # Console Account
-Console Account is used to manage your contents on Toko. You can access it by visiting <https://toko.rexllca.ga/app/console/dashboard>
+Console Account is used to manage your contents on Toko. You can access it by visiting <https://toko.rexllc.ga/app/console/dashboard>
 
